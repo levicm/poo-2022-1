@@ -1,6 +1,6 @@
 package a04_heranca;
 
-public final class ContaPoupanca extends Conta {
+public class ContaPoupanca extends Conta {
 
 	private double taxaCorrecao;
 	
